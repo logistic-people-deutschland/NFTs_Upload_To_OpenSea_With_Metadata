@@ -27,9 +27,6 @@
   "author": "WebSecurity SaaS Team",
   "license": "MIT",
   "dependencies": {
-    "@google-cloud/genkit": "^0.5.0",
-    "@google-cloud/genkit-ai": "^0.5.0",
-    "chrome-devtools-mcp": "^1.0.0",
     "commander": "^11.1.0",
     "dotenv": "^16.3.1",
     "winston": "^3.11.0",
@@ -61,4 +58,3 @@
   },
   "homepage": "https://github.com/logistic-people-deutschland/websecurity-saas-poc#readme"
 }
-
